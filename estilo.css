@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(104, 25, 178);
+     font: normal 15pt Arial; 
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+
+div{
+    text-align: center;
+}
+
+#foto{
+    height: 100px;
+    margin-left: 20px;
+}
+
+.btn{
+    border-radius: 30px;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    transition: 0.5s;
+    background-color: blueviolet;
+}
+
+.ipt{
+    border-radius: 30px;
+    padding-left: 10px;
+    padding: 5px;
+}
